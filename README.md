@@ -1,1 +1,29 @@
 # Neural-modeling-methods-and-tools
+Here’s the text formatted for a **README.md** file that you can include in your GitHub repository:
+
+---
+
+# INFO 6106 - Decision Trees and Entropy
+
+## Introduction
+
+This repository contains my first assignment for **INFO 6106**, a course under **Professor Dino** at **Northeastern University**. In the first two weeks of the course, I explored the fundamentals of **decision trees**, including the mathematical and computational aspects such as:
+
+- **Information entropy**
+- **Statistical mechanics entropy**
+- **Gini impurity**
+- **ROC curves**
+- **Hyperparameter tuning**
+- The **ID3 algorithm**
+
+This assignment showcases two key tasks:
+
+### Part 1: Building a Decision Tree
+Using a synthetic dataset with four features, I built and optimized a decision tree model. I tuned hyperparameters such as `max_depth`, `min_samples_split`, and `ccp_alpha` to prevent overfitting and reported the accuracy of the model on a test dataset.
+
+### Part 2: Calculating System Entropy
+Using a meteorological dataset from Traverse City, Michigan (2012), I quantized the **precipitation** feature into four categories and computed the system entropy. This entropy calculation helps understand the information gain when constructing a decision tree.
+
+---
+
+Feel free to copy this into your `README.md` file! Let me know if you'd like to make any adjustments.
