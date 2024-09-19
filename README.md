@@ -1,29 +1,21 @@
 # Neural-modeling-methods-and-tools
-Here’s the text formatted for a **README.md** file that you can include in your GitHub repository:
 
----
 
-# INFO 6106 - Decision Trees and Entropy
+# Machine Learning and Neural Networks - Projects and Assignments
 
 ## Introduction
 
-This repository contains my first assignment for **INFO 6106**, a course under **Professor Dino** at **Northeastern University**. In the first two weeks of the course, I explored the fundamentals of **decision trees**, including the mathematical and computational aspects such as:
+This repository serves as a collection of my coursework and personal projects in **Machine Learning (ML)** and **Neural Networks (NN)**. As part of my studies in **INFO 6106** under **Professor Dino** at **Northeastern University**, I have gained a strong foundation in several key concepts, including:
 
-- **Information entropy**
-- **Statistical mechanics entropy**
-- **Gini impurity**
-- **ROC curves**
+- **Decision Trees** and the **ID3 algorithm**
+- **Information entropy** and **Statistical mechanics entropy**
+- **Gini impurity** and **ROC curves**
 - **Hyperparameter tuning**
-- The **ID3 algorithm**
 
-This assignment showcases two key tasks:
+In addition to course assignments, I am continuously working on personal projects in **machine learning** and **neural networks** to deepen my understanding and apply advanced concepts to real-world problems. This repository showcases my progress and growth in these areas.
 
-### Part 1: Building a Decision Tree
-Using a synthetic dataset with four features, I built and optimized a decision tree model. I tuned hyperparameters such as `max_depth`, `min_samples_split`, and `ccp_alpha` to prevent overfitting and reported the accuracy of the model on a test dataset.
+### Contents
 
-### Part 2: Calculating System Entropy
-Using a meteorological dataset from Traverse City, Michigan (2012), I quantized the **precipitation** feature into four categories and computed the system entropy. This entropy calculation helps understand the information gain when constructing a decision tree.
-
----
-
-Feel free to copy this into your `README.md` file! Let me know if you'd like to make any adjustments.
+- **Course Assignments**: Projects and tasks from **INFO 6106**, focusing on decision trees, entropy, and other core ML concepts.
+- **Personal ML Projects**: Independent work exploring different machine learning algorithms and models.
+- **Neural Networks**: Experiments with neural networks, covering topics such as deep learning, CNNs, and RNNs.
