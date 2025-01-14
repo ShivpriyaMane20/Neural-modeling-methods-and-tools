@@ -19,3 +19,5 @@ In addition to course assignments, I am continuously working on personal project
 - **Course Assignments**: Projects and tasks from **INFO 6106**, focusing on decision trees, entropy, and other core ML concepts.
 - **Personal ML Projects**: Independent work exploring different machine learning algorithms and models.
 - **Neural Networks**: Experiments with neural networks, covering topics such as deep learning, CNNs, and RNNs.
+
+Assignmen 7: Multilingual-Language-Embeddings-and-Chatbot-Development-2024
